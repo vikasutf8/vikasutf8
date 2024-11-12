@@ -7,9 +7,7 @@
 ###
 
 <h3 align="left">I'm a Full Stack Developer skilled in designing, developing, and implementing applications and solutions using various technologies and programming languages.</h3>
-  <br/>
- 
- <h4 align="left"> My background includes extensive college projects where I applied my skills in real-world scenarios.</h4>
+<h4 align="left"> My background includes extensive college projects where I applied my skills in real-world scenarios.</h4>
 
 ###
 
@@ -39,7 +37,7 @@
 ![SCSS](https://img.shields.io/badge/-SCSS-000?&logo=Sass)
 ![Chart.js](https://img.shields.io/badge/-Chart.js-000?&logo=Chart.js)
 
-####🔧 Backend Development:
+#### 🔧 Backend Development:
 &emsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=Express)
@@ -64,7 +62,7 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
 ![Cloudinary](https://img.shields.io/badge/-Cloudinary-000?&logo=Cloudinary)
 
-####🛠️ Misc Tools:
+#### 🛠️ Misc Tools:
 &emsp;
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
@@ -95,11 +93,6 @@
   </a>
 </div>
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/vikasutf8/count.svg?"  />
-</div>
 
 ###
 
