@@ -2,11 +2,14 @@
 
 ###
 
-<p align="left">My name is Vikas Arya, and I am from Hanumangarh, Rajasthan.</p>
+<h2 align="left">My name is Vikas Arya, and I am from Hanumangarh, Rajasthan.</h2>
 
 ###
 
-<h2 align="left">I'm a Full Stack Developer skilled in designing, developing, and implementing applications and solutions using various technologies and programming languages. My background includes extensive college projects where I applied my skills in real-world scenarios.</h2>
+<h3 align="left">I'm a Full Stack Developer skilled in designing, developing, and implementing applications and solutions using various technologies and programming languages.</h3>
+  <br/>
+ 
+ <h4 align="left"> My background includes extensive college projects where I applied my skills in real-world scenarios.</h4>
 
 ###
 
@@ -14,55 +17,61 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+### 🚀 Skills & Technologies
 
-###
+#### 🖥️ Programming Languages:
+&emsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
+![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B)
+#### 🌐 Frontend Development:
+&emsp;
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000?&logo=Tailwind-CSS)
+![Material-UI](https://img.shields.io/badge/-Material--UI-000?&logo=Material-UI)
+![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-000?&logo=Chakra-UI)
+![SCSS](https://img.shields.io/badge/-SCSS-000?&logo=Sass)
+![Chart.js](https://img.shields.io/badge/-Chart.js-000?&logo=Chart.js)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="25" alt="typescript logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="javascript logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="25" alt="cplusplus logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="25" alt="nextjs logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="25" alt="redux logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="25" alt="tailwindcss logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="25" alt="materialui logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="25" alt="css3 logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="25" alt="html5 logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="25" alt="nodejs logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=express" height="25" alt="express logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/prisma/2D3748" height="25" alt="prisma logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/socketdotio/010101" height="25" alt="socketio logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="25" alt="mysql logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="25" alt="mongodb logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="25" alt="postgresql logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/appwrite/F02E65" height="25" alt="appwrite logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="25" alt="postman logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="25" alt="vscode logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=figma" height="25" alt="figma logo"  />
-</div>
+####🔧 Backend Development:
+&emsp;
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=Express)
+![Prisma ORM](https://img.shields.io/badge/-Prisma-000?&logo=Prisma)
+![Socket.io](https://img.shields.io/badge/-Socket.io-000?&logo=Socket.io)
+![REST API](https://img.shields.io/badge/-REST%20API-000?&logo=API)
+![OAuth2](https://img.shields.io/badge/-OAuth2-000?&logo=OAuth)
+![Web3Auth](https://img.shields.io/badge/-Web3Auth-000?&logo=Web3.js)
+
+#### 🗄️ Databases:
+&emsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+![Appwrite](https://img.shields.io/badge/-Appwrite-000?&logo=Appwrite)
+
+#### ☁️ Cloud Services:
+&emsp;
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)
+![Azure](https://img.shields.io/badge/-Azure-000?&logo=Microsoft-Azure)
+![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
+![Cloudinary](https://img.shields.io/badge/-Cloudinary-000?&logo=Cloudinary)
+
+####🛠️ Misc Tools:
+&emsp;
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
+![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=GitLab)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
+![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
 
 ###
 
