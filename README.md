@@ -1,17 +1,29 @@
 <h1 align="left">Hi There, Welcome to my Github profile! 👋🏻</h1>
 
-###
+### 
 
 <h2 align="left">My name is Vikas Arya, and I am from Hanumangarh, Rajasthan.</h2>
 
 ###
 
 <h3 align="left">I'm a Full Stack Developer skilled in designing, developing, and implementing applications and solutions using various technologies and programming languages.</h3>
-<h4 align="left"> My background includes extensive college projects where I applied my skills in real-world scenarios.</h4>
+<h4 align="left">My background includes extensive college projects where I applied my skills in real-world scenarios.</h4>
 
 ###
 
-<p align="left">🧑🏻‍🎓 I am currently enrolled in the Bachelor of Technology program in Computer Science and Engineering at PDPM IIITDM Jabalpur, India.<br>📚 I’m enhancing my skills in Next.js for full-stack development.<br>🎯 Goals: I aspire to become an exceptional freelancer and a dedicated open-source contributor.<br>🧑🏻‍💻Coding Journey: I started coding at the age of 19, and it was love at first compile! Since then, I've been on a mission to turn Chai into Code.<br>👽 Hobbyist: "When I'm not coding, you can find me Walking on street, Gym ,Bar. I love balancing my tech life with creative outlets.<br>🎲 Problem Solver: I enjoy solving puzzles and challenges, whether it's a tricky coding problem or a complex real-world issue. I believe every problem has a solution waiting to be discovered!</p>
+<!-- Aligning the text to the left and the GIF to the right using flexbox -->
+<div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%;">
+
+  <!-- Content on the left side -->
+  <div style="text-align: left; width: 65%;">
+    <p>🧑🏻‍🎓 I am currently enrolled in the Bachelor of Technology program in Computer Science and Engineering at PDPM IIITDM Jabalpur, India.<br>📚 I’m enhancing my skills in Next.js for full-stack development.<br>🎯 Goals: I aspire to become an exceptional freelancer and a dedicated open-source contributor.<br>🧑🏻‍💻Coding Journey: I started coding at the age of 19, and it was love at first compile! Since then, I've been on a mission to turn Chai into Code.<br>👽 Hobbyist: "When I'm not coding, you can find me Walking on street, Gym ,Bar. I love balancing my tech life with creative outlets.<br>🎲 Problem Solver: I enjoy solving puzzles and challenges, whether it's a tricky coding problem or a complex real-world issue. I believe every problem has a solution waiting to be discovered!</p>
+  </div>
+  
+  <!-- GIF on the right side -->
+  <div style="text-align: right; width: 35%;">
+    <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="250" height="250" alt="GIF" />
+  </div>
+</div>
 
 ###
 
@@ -93,9 +105,3 @@
   </a>
 </div>
 
-
-###
-
-<img src="https://raw.githubusercontent.com/vikasutf8/vikasutf8/output/snake.svg" alt="Snake animation" />
-
-###
