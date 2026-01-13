@@ -16,7 +16,7 @@
 
 <table>
 <tr>
-<td width="60%">
+<td >
 
 # 🚀 About Me
 
@@ -36,20 +36,20 @@ I'm a Full-Stack Software Developer & Freelancer, CSE Graduate from PDPM IIITDM 
 
 
 </td>
-<td width="40%">
+<!-- <td width="40%">
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://i.pinimg.com/736x/7e/04/9f/7e049ff72dec226bffe0672550b65498.jpg" 
        alt="Coding Animation" 
        width="100%" 
        height="580px"
-       style="border-radius: 50px;"/>
-</p>
+       style="border-radius: 50px;"/> -->
+<!-- </p> -->
   
 
 
 
-</td>
+<!-- </td> --> -->
 </tr>
 </table>
 
