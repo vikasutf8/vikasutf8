@@ -1,57 +1,15 @@
-<div align="center">
 
-#                 Welcome to My Code Universe! 
-<div>
 <div align="center">
-  <img width="100%" height="170px" src="https://i.pinimg.com/736x/98/86/06/988606a6071467a08b58e4ab155be6d1.jpg"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=200&section=header&text=Backend%20Architect&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20Scalable%20Distributed%20Systems&descAlignY=55&descSize=20" width="100%" height="150px' />
+</div>
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&width=550&lines=TypeScript++Nodejs+Java+SpringBoot+Pg;Microservice+Kafka+AWS+Docker+Jenkin;Redis+MongoDb+Postgres+RDS+ECR" alt="Typing SVG" /></a>
 </div>
 
 
 
-<div align="center">
-
-# 👋 Hello, I'm Vikas Arya!
-
-</div>
-
-<table>
-<tr>
-<td >
-
-# 🚀 About Me
 
 
-I'm a Full-Stack Software Developer & Freelancer, CSE Graduate from PDPM IIITDM Jabalpur, specializing in building scalable applications and microservices architectures.
-
-### 🎯 What I Do
-- 🔥 **Microservices Architect** - Built SaaS platforms with Nx monorepos, Kafka, and Docker
-- 📊 **Database Specialist** - PostgreSQL, MongoDB, Redis optimization expert
-- ☁️ **Cloud Developer** - AWS infrastructure with VPCs, EC2, and S3 integration
-
-
-### 💡 Current Focus
-- **DevOps at production level** with cloud platforms like **AWS/Azure/GCP**
-- Seeking Full Time Role as **Backend Software Developer**    
-
-
-
-</td>
-<!-- <td width="40%">
-
-<!-- <p align="center">
-  <img src="https://i.pinimg.com/736x/7e/04/9f/7e049ff72dec226bffe0672550b65498.jpg" 
-       alt="Coding Animation" 
-       width="100%" 
-       height="580px"
-       style="border-radius: 50px;"/> -->
-<!-- </p> -->
-  
-
-
-
-<!-- </td> --> -->
-</tr>
-</table>
 
 ---
 
