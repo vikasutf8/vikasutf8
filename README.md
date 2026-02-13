@@ -92,13 +92,20 @@ border:1px solid rgba(255,255,255,0.08);
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vikasutf8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikasutf8&layout=compact&theme=tokyonight&hide_border=true" />
+
+<table>
+<tr>
+<td width="50%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikasutf8&theme=tokyo-night&hide_border=true&area=true" />
+</td>
+<td width="50%">
+  <img src="https://streak-stats.demolab.com?user=vikasutf8&theme=tokyonight&hide_border=true" />
+</td>
+</tr>
+</table>
+
 </div>
 
-<div align="center">
-  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=vikasutf8&theme=tokyo-night&hide_border=true&area=true" />
-</div>
 
 ---
 
