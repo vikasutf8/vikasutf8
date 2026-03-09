@@ -22,8 +22,13 @@ Hi 👋, I'm Vikas Arya
 </h1>
 
 <h3 align="left" style="color:#94a3b8; margin-top:0;">
-Backend Software Engineer • India 🇮🇳
+Backend Software Engineer • India 🇮🇳 • SDE-1 @ ONOV8 (Dubai • Remote)
 </h3>
+
+<table width="100%" >
+<tr>
+
+<td width="55%" valign="top" >
 
 <div align="left" style="
 margin-top:20px;
@@ -37,21 +42,64 @@ box-shadow: 0 15px 35px rgba(0,0,0,0.45);
 border:1px solid rgba(255,255,255,0.08);
 ">
 
-🚀 Architect scalable <b>distributed microservices</b> handling high-throughput systems <br/>
+🚀 Architect <b>scalable distributed microservices</b> for high-throughput systems. <br/>
 
-⚡ Design <b>event-driven architectures</b> with Kafka & resilient communication <br/>
+⚡ Design <b>event-driven architectures</b> using Kafka and resilient async communication. <br/>
 
-📈 Optimize performance (caching, indexing, async workflows) to improve RPS & reduce latency <br/>
+📈 Optimize backend performance with <b>caching, indexing, and async pipelines</b>. <br/>
 
-🔐 Implement secure auth systems (JWT, 2FA, idempotency, rate limiting) <br/>
+🔐 Implement <b>secure authentication systems</b> (JWT, idempotency, rate limiting). <br/>
 
-☁️ Deploy cloud-native systems using Docker, AWS (VPC, EC2, ECR), CI/CD <br/>
+☁️ Deploy <b>cloud-native infrastructure</b> using Docker, AWS, and CI/CD pipelines. <br/>
 
-🛠 Drive debugging, observability & monitoring for production reliability
+🛠 Improve <b>observability and reliability</b> with logging, monitoring, and tracing.
 
 </div>
 
-## 🛠️ Technologies & Tools
+</td>
+
+
+<td width="45%" valign="top">
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<div align="center">
+
+<table>
+<tr>
+  <td align="center" width="130"><b>Languages</b></td>
+  <td>
+    <img src="https://skillicons.dev/icons?i=ts,js,java,py,cpp&theme=dark" />
+  </td>
+</tr>
+<tr>
+  <td align="center"><b>Frameworks</b></td>
+  <td>
+    <img src="https://skillicons.dev/icons?i=nodejs,spring,express,nextjs,react,django&theme=dark" />
+  </td>
+</tr>
+<tr>
+  <td align="center"><b>Databases</b></td>
+  <td>
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,kafka&theme=dark" />
+  </td>
+</tr>
+<tr>
+  <td align="center"><b>DevOps & Cloud</b></td>
+  <td>
+    <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,nginx,linux,git&theme=dark" />
+  </td>
+</tr>
+</table>
+
+</div>
+
+</td>
+
+</tr>
+</table>
+
+<!--## 🛠️ Technologies & Tools
 
 <div align="center">
 
@@ -87,7 +135,7 @@ border:1px solid rgba(255,255,255,0.08);
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-</div>
+</div> -->
 
 ## 📊 GitHub Analytics
 
@@ -113,16 +161,19 @@ border:1px solid rgba(255,255,255,0.08);
 
 <div align="center">
 
+
+✔ **Backend Software Engineering Certificate** — Hewlett Packard Enterprise (HPE)  
+✔ **Software Engineering Trainee Program** — McKinsey & Company  
+✔ **SOLID Principles & LLD Certification** — Scaler  
+✔ **SQL Data Analytics Certification** — Udacity & Accenture  
+✔ **Cybersecurity Analyst Job Simulation** — Tata Group
+
 ![LeetCode](https://img.shields.io/badge/LeetCode-400+%20Days%20Streak-orange?style=for-the-badge&logo=leetcode)
 ![Problems Solved](https://img.shields.io/badge/Problems%20Solved-700+-green?style=for-the-badge&logo=checkmarx)
 ![GeeksforGeeks](https://img.shields.io/badge/GFG-Top%20Performer-darkgreen?style=for-the-badge&logo=geeksforgeeks)
 
 </div>
 
-- 🎯 **SOLID Principles Certification** - Scaler (2025)
-- 📊 **SQL Data Analytics Certification** - Udacity & Accenture (2024)
-- 🥇 **Top Performer** - GeeksforGeeks DSA Leaderboard (1,700+ students)
-- ⚡ **LeetCode Champion** - 400+ day streak, 700+ problems solved
 
 ## 🎯 Current Goals
 
