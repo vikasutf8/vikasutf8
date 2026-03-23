@@ -69,13 +69,13 @@ border:1px solid rgba(255,255,255,0.08);
 <tr>
   <td align="center" width="130"><b>Languages</b></td>
   <td>
-    <img src="https://skillicons.dev/icons?i=ts,js,java,py,cpp&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=ts,js,java,cpp&theme=dark" />
   </td>
 </tr>
 <tr>
   <td align="center"><b>Frameworks</b></td>
   <td>
-    <img src="https://skillicons.dev/icons?i=nodejs,spring,express,nextjs,react,django&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=nodejs,spring,express,react,django&theme=dark" />
   </td>
 </tr>
 <tr>
@@ -174,14 +174,6 @@ border:1px solid rgba(255,255,255,0.08);
 
 </div>
 
-
-## 🎯 Current Goals
-
-- 🔥 Contributing to open-source projects
-- 🚀 Mastering cloud-native architectures
-- 🤖 Exploring AI/ML integrations in web development
-- 🌐 Building the next generation of decentralized applications
-
 ## 📫 Let's Connect!
 
 <div align="center">
@@ -193,9 +185,6 @@ border:1px solid rgba(255,255,255,0.08);
 
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
-</div>
 
 <div align="center">
   
