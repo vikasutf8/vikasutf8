@@ -1,12 +1,19 @@
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Latin&weight=500&size=42&duration=1&pause=1&color=75C9FF&center=true&vCenter=true&repeat=false&width=500&height=60&lines=Vikas+Arya" alt="Typing SVG" /></a>
-</p>
-
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Latin&weight=900&size=22&duration=6000&pause=500&width=435&lines=SWE+%40+Onov8+-+Omni+Innovation%2C+Dubai;Ex-Trainee+%40+McKinsey+%26+Company;Certified+Java+Backend+Engineer+%40+HPE;Certified+SQL+Data+Analyzer+%40+Accenture" alt="Typing SVG" /></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Latin&weight=100&size=30&duration=1&pause=1&color=B9E2FF&center=true&vCenter=true&repeat=false&width=500&height=60&lines=BACKEND+SOFTWARE+ENGINEER" alt="Typing SVG" /></a>
-</p>
-
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="left" valign="middle">
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Latin&weight=500&size=42&duration=1&pause=1&color=75C9FF&center=false&vCenter=true&repeat=false&width=500&height=60&lines=Vikas+Arya" alt="Typing SVG" /></a>
+      <br/>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Latin&weight=900&size=22&duration=6000&pause=500&width=435&lines=SWE+%40+Onov8+-+Omni+Innovation%2C+Dubai;Ex-Trainee+%40+McKinsey+%26+Company;Certified+Java+Backend+Engineer+%40+HPE;Certified+SQL+Data+Analyzer+%40+Accenture" alt="Typing SVG" /></a>
+      <br/>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Latin&weight=100&size=30&duration=1&pause=1&color=B9E2FF&center=false&vCenter=true&repeat=false&width=500&height=60&lines=BACKEND+SOFTWARE+ENGINEER" alt="Typing SVG" /></a>
+    </td>
+    <td align="right" valign="middle">
+      <a href="https://stars.github.com/profiles/denvercoder1/">
+        <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 ## 🧑‍💻 About Me
