@@ -14,7 +14,6 @@
 
 </div>
 
----
  
 ## 🧑‍💻 About Me
  
@@ -71,7 +70,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
----
 
 ## 📊 GitHub Analytics
 <table width="100%">
@@ -116,9 +114,6 @@
   </tr>
 </table>
 
-
----
-
 ## 🏅 Certifications
 
 | Issuer | Credential | Date |
@@ -128,20 +123,6 @@
 | 🔷 Scaler | SOLID Principles & LLD System Design | Mar 2025 |
 | 🟦 Udacity × Accenture | SQL Data Analytics | Mar 2025 |
 
----
-
 <div align="center">
-
 **Open to remote backend engineering roles and distributed systems work.**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-website-animated-tau.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikasarya1889/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikasarya1889@gmail.com)
-
-<img src="https://komarev.com/ghpvc/?username=vikasutf8&label=Profile+Views&color=75C9FF&style=flat-square" />
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer&animation=fadeIn" width="100%" />
-
 </div>
