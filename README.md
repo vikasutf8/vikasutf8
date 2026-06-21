@@ -74,11 +74,24 @@
 ## 📊 GitHub Analytics
 <table width="100%">
 <tr>
-<td valign="top" width="40%" align="center">
-<img src="https://streak-stats.demolab.com?user=vikasutf8&theme=tokyonight&hide_border=true&card_width=340" height="180" />
+<td valign="top" width="50%" align="center">
+  <!-- ![vikasutf8's Stats](https://github-readme-stats.vercel.app/api?username=vikasutf8&theme=dracula&show_icons=true&hide_border=false&count_private=true) -->
+<img src="https://github-readme-stats.vercel.app/api?username=vikasutf8&theme=dracula&show_icons=true&hide_border=false&count_private=true" height="180" />
 </td>
+<td valign="top" width="50%" align="center">
+  <!-- ![vikasutf8's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vikasutf8&theme=dracula&hide_border=false) -->
+  <img src=https://github-readme-streak-stats.herokuapp.com/?user=vikasutf8&theme=dracula&hide_border=false" height="180" />
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikasutf8&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution+Activity&line=75C9FF&point=FF6B6B&color=75C9FF" width="100%" /> -->
+</td>
+</tr>
+  <tr>
 <td valign="top" width="60%" align="center">
+  <!-- ![vikasutf8's Stats](https://github-readme-stats.vercel.app/api?username=vikasutf8&theme=dracula&show_icons=true&hide_border=false&count_private=true) -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikasutf8&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution+Activity&line=75C9FF&point=FF6B6B&color=75C9FF" width="100%" />
+</td>
+<td valign="top" width="40%" align="center">
+  <!-- ![vikasutf8's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vikasutf8&theme=dracula&show_icons=true&hide_border=false&layout=compact) -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikasutf8&theme=dracula&show_icons=true&hide_border=false&layout=compact" width="100%" />
 </td>
 </tr>
 </table>
